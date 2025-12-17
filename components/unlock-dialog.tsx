@@ -39,7 +39,7 @@ export function UnlockDialog({ open, onOpenChange, onUnlock }: UnlockDialogProps
   }
 
   const handleBuyClick = () => {
-    window.open("https://pay.kiwify.com.br/placeholder", "_blank")
+    window.open("https://pay.kiwify.com.br/YqjpXxI", "_blank")
   }
 
   const handleCloseApp = () => {
